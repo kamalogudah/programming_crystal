@@ -1,0 +1,2 @@
+crystal run filename #running the program
+crystal build --release filename # building for production
