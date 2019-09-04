@@ -9,3 +9,12 @@ puts typeof(element)
 puts typeof(hardness)
 # Constants
 DIAMOND_HARDNESS = 10
+
+# 
+puts "variable operations"
+g = 37 / 8 # => 4 (integer division)
+puts g
+h = 37 % 8 # => 5 (integers remainder / mod)
+puts h
+i = 36.0 / 8 # => 4.5 (float, use fdiv function)
+
